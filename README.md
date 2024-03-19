@@ -2,8 +2,6 @@
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
 I'm a student with a big interest in machine learning. I love learning about how computers can learn from data to make predictions and decisions.
 
 ## 🌱 What I'm Currently Learning
