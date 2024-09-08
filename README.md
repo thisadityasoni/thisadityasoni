@@ -21,6 +21,7 @@ I'm a student with a big interest in machine learning. I love learning about how
 
 - Email: thisadityasoni@gmail.com
 - LinkedIn: https://www.linkedin.com/in/thisadityasoni/
+- website: https://adityasoni.tech/
 
 ## 😄 Pronouns
 
